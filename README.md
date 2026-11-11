@@ -2,6 +2,9 @@
 
 **Bin Wan et al.**
 Preprint: https://www.biorxiv.org/content/10.1101/2024.09.26.615152v1
+
+A biologically grounded framework for molecular imaging prediction using multimodal MRI
+
 ![img](fig1.png)
 
 ## Data Sources
@@ -13,7 +16,8 @@ Raw data can be downloaded from
   - Energy Cost Munich
   - Dallas Lifespan
 
-Data have been processed by the scripts below. See directory "./scripts/python/"
+## Data process
+See directory "./scripts/python/"
 
 - T1w and DWI preprocessed by MICApipe, fMRI clean surface data
 - py01_hcp_connectome.py -> geodesic/structural/functional connectivity matrix
@@ -26,6 +30,7 @@ Data have been processed by the scripts below. See directory "./scripts/python/"
 - py07_dallas -> the same to the CMRglc for tau and amyloid
 - py08_nulls.py -> generating spatial null maps based on the variogram for all the markers
 
+## Results & parameters
 Templates, modeling results, and parameters have been saved in "./results/"
 
 - ./reseults/hcp -> hcp group-level eigenmodes and GLM parameters for each neurotransmitter using each MRI modality
