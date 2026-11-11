@@ -15,6 +15,8 @@ Raw data can be downloaded from
 - OpenNeuro (https://openneuro.org/datasets/)
   - Energy Cost Munich
   - Dallas Lifespan
+- ABIDE (https://fcon_1000.projects.nitrc.org/indi/abide/)
+- SYMONE (private)
 
 ## Data process
 See directory "./scripts/python/"
