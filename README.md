@@ -1,7 +1,7 @@
 # EigenBrain maps cortical molecular architecture from geometric, structural, and functional eigenmodes
 
 **Bin Wan et al.**
-Preprint: https://www.biorxiv.org/content/10.1101/2024.09.26.615152v1
+Preprint:https://doi.org/10.64898/2026.10.27.758642
 
 A biologically grounded framework for molecular imaging prediction using multimodal MRI
 
